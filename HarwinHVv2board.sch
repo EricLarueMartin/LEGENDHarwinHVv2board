@@ -19,7 +19,7 @@ U 1 1 5F0364FF
 P 6100 2250
 F 0 "J3" V 6038 2162 50  0000 R CNN
 F 1 "HarwinHV1" V 5947 2162 50  0000 R CNN
-F 2 "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm" H 6100 2250 50  0001 C CNN
+F 2 "HarwinHVv2board:Pin_D1.3mm_L5.75mmW2.0mm" H 6100 2250 50  0001 C CNN
 F 3 "~" H 6100 2250 50  0001 C CNN
 	1    6100 2250
 	0    -1   -1   0   
@@ -30,7 +30,7 @@ U 1 1 5F039CED
 P 6100 2650
 F 0 "J4" V 6038 2562 50  0000 R CNN
 F 1 "HarwinHV2" V 6150 2950 50  0000 R CNN
-F 2 "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm" H 6100 2650 50  0001 C CNN
+F 2 "HarwinHVv2board:Pin_D1.3mm_L5.75mmW2.0mm" H 6100 2650 50  0001 C CNN
 F 3 "~" H 6100 2650 50  0001 C CNN
 	1    6100 2650
 	0    -1   -1   0   
@@ -63,7 +63,7 @@ U 1 1 5F03B502
 P 6100 3100
 F 0 "J5" V 6038 3012 50  0000 R CNN
 F 1 "HarwinGND" V 6150 3400 50  0000 R CNN
-F 2 "Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm" H 6100 3100 50  0001 C CNN
+F 2 "HarwinHVv2board:Pin_D1.3mm_L5.75mmW2.0mm" H 6100 3100 50  0001 C CNN
 F 3 "~" H 6100 3100 50  0001 C CNN
 	1    6100 3100
 	0    -1   -1   0   

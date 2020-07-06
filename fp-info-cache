@@ -1,4 +1,4 @@
-18531772378306660
+18533366446261051
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -52093,6 +52093,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+HarwinHVv2board
+Pin_D1.3mm_L5.75mmW2.0mm
+solder Pin_ diameter 1.3mm, hole diameter 1.3mm, length 11.0mm
+solder Pin_ pressfit
+0
+1
+1
 HarwinHVv2board
 SolderWirePad_1x01_SMD_1x3mm
 Wire Pad, Square, SMD Pad,  5mm x 10mm,
